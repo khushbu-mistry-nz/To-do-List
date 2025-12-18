@@ -9,7 +9,7 @@ It allows users to add, mark, and manage daily tasks efficiently.
 - Add new tasks
 - Mark tasks as completed
 - Clean and responsive UI
-- Browser-based storage (if applicable)
+- Browser-based storage 
 
 ## 🛠️ Technologies Used
 - HTML5
@@ -23,7 +23,6 @@ It allows users to add, mark, and manage daily tasks efficiently.
 
 ## 📁 Project Structure
 
-## Show your support
 project/
 │── index.html
 │── style.css
@@ -32,9 +31,9 @@ project/
 
 
 ## 📸 Screenshot
-![alt text](image.png)
+![alt text](image-1.png)
 
-
+## Show your support
 Give a ⭐️ if this project helped you!
 
 
